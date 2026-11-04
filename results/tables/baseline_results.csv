@@ -1,0 +1,4 @@
+model,accuracy,precision,recall,f1,true_alarms,false_alarms,missed,roc_auc
+"Always ""no stress""",0.8564,0.0,0.0,0.0,0,0,58,
+Persistence rule,0.8837,0.5591,0.8966,0.6887,52,41,6,0.9511
+Logistic regression (6 features),0.9208,0.6857,0.8276,0.75,48,22,10,0.9481

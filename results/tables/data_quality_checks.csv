@@ -1,0 +1,6 @@
+check,rows,countries,examples
+inflation above 100%,10,4,"ARG, LBN, SDN, VEN"
+exchange-rate change above 100%,12,8,"ARG, LBN, LBY, MMR, NGA, SDN"
+oil exports above 100% of GDP,1,1,GUY
+negative oil production,78,10,"BIH, CRI, DOM, JAM, KEN, LKA"
+trade equal to 0% of GDP,2,1,VEN

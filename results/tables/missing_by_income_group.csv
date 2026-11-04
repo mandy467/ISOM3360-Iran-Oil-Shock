@@ -1,0 +1,22 @@
+,High income,Upper middle income,Lower middle income,Low income,all
+net_crude_trade_usd,29.9,46.2,56.2,83.5,46.6
+export_dependence_pct_gdp,24.6,38.2,52.1,79.9,40.9
+crude_oil_export_usd,24.6,38.0,52.1,79.0,40.8
+shock_x_import_burden,18.4,37.8,34.2,65.6,32.8
+import_burden_pct_gdp,13.1,33.3,29.3,62.9,28.0
+crude_oil_import_usd,13.1,33.2,29.3,61.6,27.9
+fx_change_pct,6.4,11.3,13.2,20.5,10.9
+trade_pct_gdp,5.4,8.4,10.7,17.0,8.8
+inflation_pct,1.9,8.7,4.3,20.5,6.3
+brent_yoy_pct,6.2,6.2,6.2,6.2,6.2
+oil_intensity,2.9,5.7,5.1,16.5,5.6
+exchange_rate_lcu_per_usd,0.1,5.3,7.1,14.3,4.8
+oil_consumption_twh,2.8,5.2,5.1,6.2,4.4
+production_crude_tbpd,1.9,4.3,0.0,0.0,2.0
+production_total_tbpd,1.9,4.3,0.0,0.0,2.0
+gdp_usd,0.1,0.7,0.2,12.1,1.4
+gdp_per_capita_usd,0.1,0.7,0.2,12.1,1.4
+gdp_growth_pct,0.1,0.1,0.2,12.1,1.2
+inflation_next,8.1,14.4,10.4,26.3,12.3
+gdp_growth_next,6.4,6.4,6.4,17.9,7.5
+stress_next,8.1,14.4,10.4,26.3,12.3

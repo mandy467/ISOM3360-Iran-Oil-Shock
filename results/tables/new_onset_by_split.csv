@@ -1,0 +1,4 @@
+split,stress_cases,new_onset,already_above_10,inflation_missing,new_onset_share
+train 2010-2021,204,80,121,3,0.392
+test 2022-2024,58,6,52,0,0.103
+2021 rows only (2022 shock),50,36,14,0,0.72

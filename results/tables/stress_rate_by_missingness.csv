@@ -1,0 +1,6 @@
+column,n_missing_rows,stress_rate_if_reported,stress_rate_if_missing
+crude_oil_import_usd,484,0.099,0.211
+crude_oil_export_usd,772,0.115,0.141
+oil_consumption_twh,15,0.124,0.133
+fx_change_pct,172,0.12,0.18
+trade_pct_gdp,141,0.12,0.191

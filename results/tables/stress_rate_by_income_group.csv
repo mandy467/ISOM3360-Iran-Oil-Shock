@@ -1,0 +1,5 @@
+income_group,rows,stress_cases,stress_rate
+High income,765,21.0,0.027
+Upper middle income,630,84.0,0.133
+Lower middle income,545,113.0,0.207
+Low income,165,44.0,0.267

@@ -1,0 +1,4 @@
+inflation_pct,rows,stress_cases,stress_rate
+5% or less,1382,29.0,0.021
+5-10%,460,57.0,0.124
+above 10%,259,173.0,0.668

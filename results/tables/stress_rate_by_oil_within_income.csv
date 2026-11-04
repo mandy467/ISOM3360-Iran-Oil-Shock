@@ -1,0 +1,9 @@
+feature,income_group,rows,stress_below_median,stress_above_median
+import_burden_pct_gdp,High income,547,0.029,0.022
+import_burden_pct_gdp,Upper middle income,372,0.054,0.102
+import_burden_pct_gdp,Lower middle income,345,0.173,0.174
+import_burden_pct_gdp,Low income,68,0.206,0.412
+export_dependence_pct_gdp,High income,476,0.025,0.025
+export_dependence_pct_gdp,Upper middle income,352,0.08,0.148
+export_dependence_pct_gdp,Lower middle income,231,0.172,0.296
+export_dependence_pct_gdp,Low income,31,0.125,0.6
