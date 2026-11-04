@@ -1,0 +1,7 @@
+iso3,country_name,year,inflation_pct,inflation_next,logreg_flag,rule_flag
+BGD,Bangladesh,2023,9.9,10.5,0.0,0
+BOL,Bolivia,2024,5.1,19.5,0.0,0
+KAZ,Kazakhstan,2024,8.7,11.4,0.0,0
+PSE,West Bank and Gaza,2023,5.9,53.7,0.0,0
+TCD,Chad,2022,5.8,10.8,0.0,0
+UKR,Ukraine,2024,6.5,12.7,0.0,0
