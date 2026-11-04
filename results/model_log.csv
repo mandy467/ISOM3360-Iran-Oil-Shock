@@ -1,0 +1,4 @@
+timestamp,model,params,accuracy,precision,recall,f1,notes,roc_auc
+2026-11-04 12:22,majority_baseline,{'strategy': 'most_frequent'},0.8564,0.0,0.0,0.0,Starting point: ignores all features. Shows accuracy alone is misleading on imbalanced data.,
+2026-11-04 12:22,persistence_rule,{'rule': 'inflation_pct > 10'},0.8837,0.5591,0.8966,0.6887,One-line benchmark for the persistence effect (open issue 1). No training. A model must beat this to add value.,0.9511
+2026-11-04 12:22,logreg_v1,"{'C': 1.0, 'imputer': 'median', 'scaler': 'standard', 'n_features': 6}",0.9208,0.6857,0.8276,0.75,"First real model: 6 features, default settings. Fewer false alarms than the persistence rule but similar ranking.",0.9481
